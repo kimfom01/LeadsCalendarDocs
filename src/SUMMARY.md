@@ -1,3 +1,6 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Introduction](./introduction.md)
+- [Static View](./static_view.md)
+- [Features](./features.md)
+- [Integrations](./integrations.md)
